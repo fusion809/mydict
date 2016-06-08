@@ -172,6 +172,7 @@ Acropolis
 Acrux/M
 Actaeon/M
 Actium/M
+ActiveState
 Acton/M
 Acts/M
 Acuff/M
@@ -895,6 +896,7 @@ Arcady
 Arch/MR
 Archaean
 Archaeozoic/M
+ArchBang
 Archean/M
 Archeozoic's
 Archer/M
@@ -2283,6 +2285,7 @@ Britten/M
 Brittney/M
 Brno/M
 Broad/S
+broadcom
 Broadway/SM
 Brobdingnag/M
 Brobdingnagian/M
@@ -8951,6 +8954,7 @@ Lieut
 Lieutenant/M
 Lifesaver/M
 Liffey/M
+LightTable
 Liguria/M
 Ligurian
 Lila/M
@@ -9314,6 +9318,7 @@ Lübeck/M
 M/SMGB
 MA/M
 MASH
+MATE
 MATS
 MB/M
 MBA/M
@@ -12546,6 +12551,7 @@ ROK
 ROM/M
 ROTC/M
 RP
+RPM
 RR
 RSFSR
 RSI
@@ -15358,6 +15364,10 @@ Ubermensch/MN
 Ubermenschen/M
 Ubiquitarian
 Ubuntu/M
+Edubuntu
+Lubuntu
+Kubuntu
+Xubuntu
 Ucayali/M
 Uccello/M
 Udall/M
@@ -15473,6 +15483,7 @@ VAR
 VAT/M
 VAX
 VAXes
+VBM
 VC
 VCR/M
 VD/M
@@ -15489,6 +15500,7 @@ VIP/SM
 VISTA
 VJ
 VLF/M
+VM
 VOA
 VP
 VT
@@ -16266,6 +16278,7 @@ Yankee/SM
 Yankeeism
 Yaobang/M
 Yaounde/M
+yaourt
 Yap
 Yaqui/M
 Yaren
@@ -16470,6 +16483,7 @@ Zyrtec/M
 Zyuganov/M
 Zzz
 Zürich/M
+ZYpp
 a/SL
 aa
 aah
@@ -18995,6 +19009,7 @@ antependium
 antepenult/S
 antepenultima
 antepenultimate/S
+Antergos
 anterior/Y
 anteriority/S
 anteroom/MS
@@ -19289,6 +19304,7 @@ antivivisection
 antivivisectionist/MS
 antiwar
 antiworld
+antiX
 antler/MDS
 antlia
 antlion/S
@@ -23484,6 +23500,7 @@ brachyuran/S
 bracing/Y
 bracken/M
 bracket/GMDS
+brackets
 bracketed/U
 brackish/P
 brackishness/M
@@ -30280,6 +30297,7 @@ crèche/MS
 cs/E
 csc
 csch
+csh
 ct/S
 ctenidia
 ctenidium
@@ -33107,6 +33125,7 @@ docile/Y
 docility/M
 dock/MDRZGS
 dockage/S
+docker
 docket/SMDG
 dockhand/S
 dockland/S
@@ -33498,6 +33517,7 @@ dozen/MH
 dozily
 dozy/RTP
 dpi
+dpkg
 dpt
 dr
 drab/MYSP
@@ -40695,6 +40715,7 @@ gnaw/DRZGS
 gneiss/M
 gnocchi
 gnome/SM
+GNOME
 gnomic
 gnomically
 gnomish
@@ -47738,6 +47759,7 @@ kolinsky
 kolkhoz/S
 kolo
 komatik
+Komodo
 koniology
 koodoo/S
 kook/MS
@@ -55744,6 +55766,7 @@ opcode/S
 ope/S
 open/ZTGJPMDRYS
 OpenBSD
+OpenBSD
 opencast
 opened/U
 opener/M
@@ -56922,6 +56945,7 @@ pH
 pa/SMYH
 pablum/M
 pabulum/M
+pacaur
 pace/MZGDRS
 pacemaker/SM
 pacemaking
@@ -72470,6 +72494,12 @@ sysop/S
 syst
 systaltic
 system/SM
+systemd
+systemctl
+netctl
+makepkg
+namcap
+updpkgsums
 systematic/S
 systematical/UY
 systematise/GDS
@@ -72940,6 +72970,7 @@ tayra/S
 tazza
 tbs
 tbsp
+tcsh
 tea/SM
 teabag/S
 teaberry/S
@@ -76967,6 +76998,10 @@ urology/M
 uropod
 uropygium/S
 uroscopy
+urpme
+urpmf
+urpmi
+urpmq
 ursine
 urtext
 urtexte
@@ -79991,6 +80026,7 @@ zoril/S
 zoster/S
 zounds
 zoysia/S
+zsh
 zucchetto
 zucchini/MS
 zugzwang
@@ -80018,6 +80054,7 @@ zymoses
 zymosis
 zymotic
 zymurgy/M
+zypper
 Ångström/M
 Übermensch/MN
 Übermenschen/M
